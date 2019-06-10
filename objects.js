@@ -1,4 +1,4 @@
-var playlist= {artistName: 'songTitle'};
+var playlist= {eminem: 'my name is'};
 
 
 function updatePlaylist(playlist, artistName, songTitle){
